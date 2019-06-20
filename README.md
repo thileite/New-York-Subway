@@ -1,4 +1,4 @@
-# New-York-Subway
+# New York Subway
 
 Esse projeto faz parte do curso Fundamentos de Data Science II, ministrado pela Udacity, como primeiro projeto para a conclusão de curso. 
 
